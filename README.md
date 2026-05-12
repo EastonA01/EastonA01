@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on a large-scale Django project that introduces a multitude of modern-day coding practices showing proficiency in my field<br>👯 I’m looking to collaborate on any and all projects coding related! There is no language I can't learn or skill I need to pick up!<br>🌱 I’m currently learning on creating artificial intelligence with Harvard's CS50!<br>⚡ Fun fact: I've been learning to break games (and their code) since I was 5! 🤯
+🔭 I'm currently working in the GovTech sector, collaborating on the development of next-generation election management software focused on reliability, security, and modern software engineering practices.<br>👯 I'm looking to collaborate on any and all projects coding related! There is no language I can't learn or skill I need to pick up!<br>🌱 I'm currently learning on creating artificial intelligence with Harvard's CS50!<br>⚡ Fun fact: I've been learning to break games (and their code) since I was 5! 🤯
 
 
 ## 🌐 Socials:
